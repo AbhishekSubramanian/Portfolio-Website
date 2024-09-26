@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #home {
   /* background: url('https://www.vt.edu/content/dam/vt_edu/admissions/download/swag/2021/computer-bg/Laptop_WP2.png') no-repeat center center; */
-  background: url('https://www.umassp.edu/sites/default/files/2023-07/UMass%20Amherst%201.png') no-repeat center center;
+  background: url('https://www.thoughtco.com/thmb/wePUa_lYxMgswpUCpHUsRN6sAl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amherst-university-campus-641618920-5aae80211f4e1300379be8f5.jpg') no-repeat center center;
   background-size: cover; /* Ensures the image covers the section */
   min-height: 500px; /* Set a reasonable height for the section */
   display: flex;
