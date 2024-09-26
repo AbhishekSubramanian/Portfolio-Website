@@ -54,7 +54,7 @@
 
 import React from 'react';
 import './skills.css';
-import { FaPython, FaJsSquare, FaDatabase, FaReact, FaNode, FaGitAlt, FaDocker } from 'react-icons/fa';
+import { FaPython, FaJsSquare, FaDatabase, FaReact, FaNode, FaGitAlt, FaDocker, FaJava, FaUikit } from 'react-icons/fa';
 import { SiCplusplus, SiHtml5, SiCss3, SiFlask, SiBootstrap, SiRedux, SiFigma, SiGooglecloud } from 'react-icons/si';
 import { Typography } from '@mui/material';
 
@@ -63,13 +63,13 @@ const skills = [
   { name: 'JavaScript', icon: <FaJsSquare size={40} />, color: '#F7DF1E' },
   { name: 'SQL', icon: <FaDatabase size={40} />, color: '#00618A' },
   { name: 'C++', icon: <SiCplusplus size={40} />, color: '#00599C' },
-  { name: 'Java', icon: <SiCss3 size={40} />, color: '#1572B6' },
+  { name: 'Java', icon: <FaJava size={40} />, color: '#1572B6' },
   { name: 'HTML', icon: <SiHtml5 size={40} />, color: '#E34F26' },
   { name: 'CSS', icon: <SiCss3 size={40} />, color: '#1572B6' },
   { name: 'React.js', icon: <FaReact size={40} />, color: '#61DAFB' },
   { name: 'Node.js', icon: <FaNode size={40} />, color: '#339933' },
   { name: 'Flask', icon: <SiFlask size={40} />, color: '#000000' },
-  { name: 'Material UI', icon: <SiCss3 size={40} />, color: '#1572B6' },
+  { name: 'Material UI', icon: <FaUikit size={40} />, color: '#1572B6' },
   { name: 'Bootstrap', icon: <SiBootstrap size={40} />, color: '#7952B3' },
   { name: 'Figma', icon: <SiFigma size={40} />, color: '#F24E1E' },
   { name: 'Redux', icon: <SiRedux size={40} />, color: '#764ABC' },
