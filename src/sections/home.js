@@ -38,7 +38,8 @@ const Home = () => {
       >
         {/* Master's in Computer Engineering (ML and SWE) at VT */}
         Master's in Computer Science at {' '}
-        <span style={{ color: 'rgb(136, 28, 28)', fontWeight: 'bold' }}>Umass Amherst</span>
+        <span style={{fontWeight: 'bold' }}>Umass Amherst</span> 
+        {/* color: 'rgb(136, 28, 28)',  */}
       </Typography>
     </Box>
   );
